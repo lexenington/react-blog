@@ -1,0 +1,38 @@
+.head{
+  height: 400px;
+  margin-top: -400px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+
+  background-color: rgba(0,150,136,0.6);
+}
+.head-low{
+  background-color: #80CBC4;
+}
+.adinkra{
+  font-size: 7em;
+  color: #fff;
+  padding-top: 0;
+  margin-top: -2px;
+  display: flex;
+  /*justify-content: center;
+  align-content: center;*/
+}
+.header-background{
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+  background-image: url("/img/header.jpeg");
+  height: 400px;
+}
+hr{
+  width: 10%;
+  background-color: #fff;
+  font-size: 2em;
+
+}
+.lead-par{
+  font-weight: lighter;
+  font-size: 1.2em;
+}
